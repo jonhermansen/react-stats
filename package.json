@@ -16,6 +16,7 @@
   ],
   "devDependencies": {
     "browserify": "^6.3.3",
+    "create-react-class": "^1.2.4",
     "envify": "^3.2.0",
     "react": "^0.12.2",
     "reactify": "^0.17.1"

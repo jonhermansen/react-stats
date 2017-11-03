@@ -1,6 +1,7 @@
 'use strict';
 
 var React = require('react');
+var createReactClass = require('create-react-class');
 
 
 var graphHeight = 29;
@@ -36,7 +37,7 @@ var graphStyle = {
 };
 
 
-var FPSStats = React.createClass({
+var FPSStats = createReactClass({
 
   /*propTypes: {
     isActive: React.PropTypes.bool,
