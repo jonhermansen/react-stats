@@ -38,13 +38,13 @@ var graphStyle = {
 
 var FPSStats = React.createClass({
 
-  propTypes: {
+  /*propTypes: {
     isActive: React.PropTypes.bool,
     top: React.PropTypes.string,
     bottom: React.PropTypes.string,
     right: React.PropTypes.string,
     left: React.PropTypes.string
-  },
+  },*/
 
   getDefaultProps: function() {
     return {
